@@ -1,3 +1,5 @@
+## Projeto | ALURA
+
 # Alura-desafio-7-dias-HTML-CSS
 Desafio proposto pela Alura na qual os alunos tem 7 dias para desenvolver uma página com layout disponibilizado no Figma e compartilhar os resultados.
 
